@@ -5,7 +5,7 @@ This is a fully responsive landing page built using **HTML** and **CSS**. It ada
 
 ## 🌐 Live Demo
 
-[Click here to view the live demo](https://your-username.github.io/project-name/)  
+[Click here to view the live demo](https://github.com/Khushi-Singh-04/PRODIGY_WD_01)
 
 
 ---
